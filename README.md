@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+High School @ Goyang Foreign Language High School 2008.03 ~ 2011.02
+- Majored Japanese
+
 Bachelor's Degree @ CAU 2011.03 ~ 2019.02
 - Majored Electrical Electronics Engineering
 
