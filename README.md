@@ -1,8 +1,21 @@
-### Hi there 👋
+# Hyuck Yi
 
 ## Career
 
 System Engineer @ Pearl Abyss 2022.02 ~ 
+
+## Skills
+### Programming Languages
+- Python
+- C/C++
+
+### Environments
+- Windows
+- Linux
+- Mac
+
+#### Virtual Environments
+
 
 ## Educations
 
